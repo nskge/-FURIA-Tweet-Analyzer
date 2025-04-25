@@ -26,12 +26,42 @@
 Clone o repositório:
 
 ```bash
-  git clone https://github.com/nskgee/FURIA-Tweet-Analyzer
-  cd -FURIA-Tweet-Analyzer
-
-
+git clone https://github.com/nskgee/FURIA-Tweet-Analyzer
+cd FURIA-Tweet-Analyzer
+```
+---
 
 Instale as dependências:
 
 ```bash
-  pip install tweepy vaderSentiment python-dotenv
+pip install tweepy vaderSentiment python-dotenv
+```
+-----
+Crie um arquivo .env na raiz do projeto e adicione sua chave da API:
+
+```bash
+TWITTER_BEARER_TOKEN=seu_token_aqui
+```
+----
+
+⚙️ Como usar
+Execute o script:
+
+```bash
+python main.py
+```
+
+Escolha a opção de análise no menu e insira os dados solicitados:
+
+Palavra-chave ou hashtag
+
+Quantidade de tweets (até 100)
+
+Idioma (ex: pt para português)
+
+
+
+
+
+
+
