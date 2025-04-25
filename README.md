@@ -1,6 +1,6 @@
 # FURIA-Tweet-Analyzer
 
-**Autor:** [@nskgee](https://github.com/nskgee)  
+**Autor:** [@nskgee](https://github.com/nskge)  
 **Descrição:** Um analisador de sentimentos para tweets mencionando a equipe FURIA, utilizando a API do Twitter (v2) e o VADER Sentiment Analyzer. O projeto coleta tweets em tempo real com base em uma palavra-chave e os classifica automaticamente como positivos, negativos ou neutros.
 
 ---
@@ -26,7 +26,7 @@
 Clone o repositório:
 
 ```bash
-git clone https://github.com/nskgee/FURIA-Tweet-Analyzer
+git clone https://github.com/nskge/FURIA-Tweet-Analyzer
 cd FURIA-Tweet-Analyzer
 ```
 ---
